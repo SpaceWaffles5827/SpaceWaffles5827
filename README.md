@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:JackHartwig7@gmail.com"><img src="https://img.shields.io/badge/Email-JackHartwig7%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://novaexpense.com"><img src="https://img.shields.io/badge/Project-NovaExpense.com-0A66C2?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://jackhartwig.com"><img src="https://img.shields.io/badge/About-JackHartwig.com-0A66C2?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 <!-- ---
